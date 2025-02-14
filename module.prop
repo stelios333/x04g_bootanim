@@ -1,0 +1,6 @@
+id=spinnerBootAnimation
+name=Stock X04G boot animaion
+version=v1.0
+versionCode=0001
+author=Stelios333
+description=Installs the OEM boot animation for the Xiaomi Mi Smart Clock. Drastically improves boot time when a GSI is installed on the device.
