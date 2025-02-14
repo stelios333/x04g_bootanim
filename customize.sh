@@ -1,2 +1,2 @@
 
-ui_print "- Installing spinner boot animation"
+ui_print "- Installing stock boot animation"
